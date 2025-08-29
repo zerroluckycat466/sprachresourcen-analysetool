@@ -1,8 +1,11 @@
+# Ignoriere kompilierte Python-Dateien
 *.py[cod]
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Ignoriere virtuelle Umgebungen
 .venv/
 env/
 venv/
